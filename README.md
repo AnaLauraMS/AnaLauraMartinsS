@@ -2,10 +2,10 @@
 
 ## 👩‍💻 Sobre Mim
 
-Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em construir carreira como desenvolvedora full-stack.
+Estudante de Desenvolvimento de Software na **FATEC Votorantim**.
 
 -  Cursando Desenvolvimento de Sistemas Multiplataformas
--  Atualmente aprofundando conhecimentos em Java, React, Python e Banco de Dados (SQL e NoSQL)
+-  Atualmente estudando algumas tecnologias como Java, React, Python e Banco de Dados (SQL e NoSQL)
 -  Interesses: Desenvolvimento Back-end, Banco de Dados e Arquitetura de Software.
 
 ## Habilidades Técnicas
@@ -28,7 +28,7 @@ Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em con
 
 ## Projetos Acadêmicos
 
-[🔗 Repositório de Projetos da FATEC](https://github.com/AnaLauraMartinsS/NotaGest) - Coleção de trabalhos desenvolvidos durante a graduação, demonstrando evolução nas tecnologias estudadas.
+[🔗 Repositório de Projetos da FATEC](https://github.com/AnaLauraMartinsS/NotaGest) - Coleção de trabalhos desenvolvidos durante a faculdade.
 
 
 ## 📫 Contato
