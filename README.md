@@ -1,29 +1,40 @@
-# Ana Laura Martins Souto | Desenvolvedora em Formação
+# Ana Laura Martins | Desenvolvedora Back-end.
+
+☕ Estudante de Desenvolvimento de Software
+
+🎯 Focada em Desenvolvimento Back-end com Java
 
 ## 👩‍💻 Sobre Mim
 
-Estudante de Desenvolvimento de Software na **FATEC Votorantim**.
+Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Votorantim.
 
--  Cursando Desenvolvimento de Sistemas Multiplataformas
--  Atualmente estudando algumas tecnologias como Java, React, Python e Banco de Dados (SQL e NoSQL)
--  Interesses: Desenvolvimento Back-end, Banco de Dados e Arquitetura de Software.
+Atualmente estou aprofundando meus conhecimentos em Java e construindo projetos para desenvolver uma base sólida em Back-end.
+
+Meu objetivo é conquistar uma oportunidade como Desenvolvedora Java Estagiária ou Júnior.
 
 ## Habilidades Técnicas
 
 ### Linguagens e Tecnologias
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+Atualmente:
+
+☕
+
+Java
+
+Git
+
+GitHub
+
+MySQL
+
+SQL
 
 ### Em Aprendizado
-- Fundamentos de algoritmos e estruturas de dados
-- Desenvolvimento web responsivo
-- Princípios de clean code e boas práticas
-- Versionamento com Git/GitHub
+- Java
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- SQL
+- Git e GitHub
 
 ## Projetos Acadêmicos
 
